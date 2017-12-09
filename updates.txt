@@ -1,0 +1,17 @@
+MARCH 29th
+Screen saver included with beta 0.0003
+
+March 19th
+Fixed Color Scheme and Wallpaper. No more blurry-ness. Added Paint
+to the user menu. Working on boot sector.You may notice the B:\
+drive isnt there, well thats because this dude alfie said "no-one
+uses b drives anymore."
+
+MARCH 18
+Made new mouse pointer graphic, added a M Application called
+Color Settings, so now people can change there desktop
+colors and shadow colors. Fixed some magor bugs that I seemed
+to only find, still need to fix the mouse pointer bug, it
+flickers on older computers like 286 and 386 systems. Works
+good on my 486 75.
+
